@@ -1,0 +1,6 @@
+{
+  "name": "ClassPulse - Teacher Attendance Management",
+  "description": "A modern, professional attendance management platform for teachers with real-time class tracking, student rosters, bulk attendance marking, detailed analytics, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
